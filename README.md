@@ -1,6 +1,4 @@
-# Employee Directory - React Learning Project
-
-## Project Overview
+ React Learning Project
 
 This project was built to learn the fundamentals of React.js through a hands-on employee directory application.
 
